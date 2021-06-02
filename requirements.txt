@@ -4,4 +4,4 @@ idna==2.9
 pystache==0.5.4
 requests==2.23.0
 trello==0.9.4
-urllib3==1.25.9
+urllib3==1.26.5
